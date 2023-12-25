@@ -1,0 +1,10 @@
+C:\Users\PC0\source\repos\string metotları1-777\string metotları1-777\bin\Debug\string metotları1-777.exe.config
+C:\Users\PC0\source\repos\string metotları1-777\string metotları1-777\bin\Debug\string metotları1-777.exe
+C:\Users\PC0\source\repos\string metotları1-777\string metotları1-777\bin\Debug\string metotları1-777.pdb
+C:\Users\PC0\source\repos\string metotları1-777\string metotları1-777\obj\Debug\string metotları1-777.csproj.AssemblyReference.cache
+C:\Users\PC0\source\repos\string metotları1-777\string metotları1-777\obj\Debug\string_metotları1_777.Form1.resources
+C:\Users\PC0\source\repos\string metotları1-777\string metotları1-777\obj\Debug\string_metotları1_777.Properties.Resources.resources
+C:\Users\PC0\source\repos\string metotları1-777\string metotları1-777\obj\Debug\string metotları1-777.csproj.GenerateResource.cache
+C:\Users\PC0\source\repos\string metotları1-777\string metotları1-777\obj\Debug\string metotları1-777.csproj.CoreCompileInputs.cache
+C:\Users\PC0\source\repos\string metotları1-777\string metotları1-777\obj\Debug\string metotları1-777.exe
+C:\Users\PC0\source\repos\string metotları1-777\string metotları1-777\obj\Debug\string metotları1-777.pdb
